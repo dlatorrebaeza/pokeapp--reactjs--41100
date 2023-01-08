@@ -9,6 +9,12 @@
     margin-bottom: 3px;
     text-align: center;
 }
+
+.cardBodyDark {
+    background-color: hsl(0, 0%, 33%);
+    margin-bottom: 3px;
+    text-align: center;
+}
   
 img {
     margin-top:3px;
@@ -34,8 +40,19 @@ img {
     position: relative;
     left: 15%;
 }
+
+.darkMode {
+    background-color:black;
+    color:gainsboro;
+}
   
 .itemDetail {
     max-width: 550px;
+    margin-top: 20px;
+}
+
+.checkout {
+    background-color: hsl(0, 0%, 97%);
+    padding: 20px;
     margin-top: 20px;
 }
