@@ -32,5 +32,5 @@ npm i
 
 ## Video 📹
 
-![alt_Text](https://www.youtube.com/watch?v=AgvcD0ReeB4)
+_(https://www.youtube.com/watch?v=AgvcD0ReeB4)_
 
