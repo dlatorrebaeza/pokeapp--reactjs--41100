@@ -6,7 +6,7 @@
         "tipo": "Objeto Curativo",
         "precio": 2000,
         "stock": 120,
-        "img": "pocion.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/pocion.png?alt=media&token=74e8accd-37a6-4f5e-beae-0538c19500c6"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "tipo": "Pokemon Tipo Agua",
         "precio": 1500,
         "stock": 100,
-        "img": "magikarp.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/magikarp.png?alt=media&token=fca26307-631b-4210-b58d-824ad9051275"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "tipo": "Objeto de Captura",
         "precio": 1000,
         "stock": 150,
-        "img": "poke-ball.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/poke-ball.png?alt=media&token=dd176266-83f3-447a-a82c-1f1f708c5fb9"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "tipo": "Objeto Curativo",
         "precio": 4000,
         "stock": 60,
-        "img": "super-pocion.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/super-pocion.png?alt=media&token=695e193a-e20d-4568-bfec-1e3b7d6a1d35"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "tipo": "Pokemon Tipo Psíquico",
         "precio": 2500,
         "stock": 85,
-        "img": "abra.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/abra.png?alt=media&token=35c909a9-d4bb-4bee-992e-58a78fa334d3"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "tipo": "Objeto de Captura",
         "precio": 2000,
         "stock": 75,
-        "img": "super-ball.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/super-ball.png?alt=media&token=40e7086b-32af-41c1-a9fe-ed4047edfc7b"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "tipo": "Objeto de Captura",
         "precio": 1500,
         "stock": 100,
-        "img": "honor-ball.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/honor-ball.png?alt=media&token=9a4c122b-29ae-40ed-8675-35615727669a"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "tipo": "Pokemon Tipo Normal",
         "precio": 2250,
         "stock": 95,
-        "img": "eevee.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/eevee.png?alt=media&token=e181d535-f0e0-4e29-9b54-11170e43edf8"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "tipo": "Objeto Curativo",
         "precio": 8000,
         "stock": 30,
-        "img": "hiper-pocion.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/hiper-pocion.png?alt=media&token=97eb6fe8-0a77-4a76-8b60-2ffa40ae6571"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "tipo": "Objeto Curativo",
         "precio": 10000,
         "stock": 20,
-        "img": "revivir.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/revivir.png?alt=media&token=9de67495-3c9c-4870-a7b1-7fe0607cfa88"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "tipo": "Objeto de Captura",
         "precio": 4000,
         "stock": 40,
-        "img": "ultra-ball.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/ultra-ball.png?alt=media&token=beb7af74-517d-41c3-b531-4bac2348ab6d"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "tipo": "Pokemon Tipo Hada",
         "precio": 7500,
         "stock": 75,
-        "img": "clefairy.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/clefairy.png?alt=media&token=7875c948-84e3-467f-afa0-cb139125ab80"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "tipo": "Pokemon Tipo Dragón",
         "precio": 12500,
         "stock": 45,
-        "img": "dratini.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/dratini.png?alt=media&token=9fbce5e1-7770-4d7e-bda6-734e528d461a"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "tipo": "Objeto de Captura",
         "precio": 1500,
         "stock": 30,
-        "img": "safari-ball.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/safari-ball.png?alt=media&token=ea7278a2-5f5c-46e9-ab03-a652f9cbd9f9"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "tipo": "Objeto Curativo",
         "precio": 20000,
         "stock": 10,
-        "img": "revivir-maximo.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/revivir-maximo.png?alt=media&token=3d0e06da-70c0-4f2f-8123-76c9d89fcf3e"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "tipo": "Pokemon Tipo Roca",
         "precio": 15000,
         "stock": 25,
-        "img": "larvitar.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/larvitar.png?alt=media&token=8249202d-5ffc-4fa6-9da5-258fbe73c15e"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "tipo": "Objeto Curativo",
         "precio": 25000,
         "stock": 5,
-        "img": "max-pocion.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/max-pocion.png?alt=media&token=94a1d24f-a14a-40b1-bd63-16312c6fcd6f"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "tipo": "Pokemon Tipo Psíquico",
         "precio": 9000,
         "stock": 55,
-        "img": "mr-mime.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/mr-mime.png?alt=media&token=e01f45d8-3c86-432a-a910-5ac5588825b1"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "tipo": "Pokemon Tipo Normal",
         "precio": 75000,
         "stock": 3,
-        "img": "porygon.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/porygon.png?alt=media&token=25a315f1-1dda-45ca-b323-ba4ad8524c77"
     },
     {
         "id": 20,
@@ -177,6 +177,6 @@
         "tipo": "Objeto de Captura",
         "precio": 150000,
         "stock": 1,
-        "img": "master-ball.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/poke-tienda-react-js-41100.appspot.com/o/master-ball.png?alt=media&token=ba492d3b-10b8-4ba0-ac2f-761a14fb3420"
     }
 ]

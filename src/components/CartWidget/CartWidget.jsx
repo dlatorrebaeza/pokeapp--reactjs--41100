@@ -1,15 +1,19 @@
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
+import { useCarritoContext } from "../../context/CarritoContext";
 
 const CartWidget = () => {
+    const {getItemQuantity} = useCarritoContext()
+
     return (
         <>
             <button className="btn btn-danger cartWidget">
-                <Link className='nav-link' to={"/cart"}>
-                    <i className="fas fa-shopping-cart fa-lg"></i>
-                    <span className="cantCarrito">0</span>
-                </Link>
+                    <Link to={'/cart'} className="nav-link">
+                        <i className="fas fa-shopping-cart fa-lg"></i>
+                        {getItemQuantity() > 0 && <span className="cantCarrito">{getItemQuantity()}</span>}
+                    </Link>
+                        
             </button>
-
+            
         </>
     );
 }
